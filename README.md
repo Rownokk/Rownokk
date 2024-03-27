@@ -1,6 +1,6 @@
 # Hello there! 👋 Myself - Rownok Jahan Mowmita.
 <hr>
-<img src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg">
+<img src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg"height="100">
 
 <!--
 **Rownokk/Rownokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -16,7 +16,7 @@
   Welcome to my GitHub profile! I’m a passionate CSE undergraduate currently exploring the world of programming, algorithms, and software development. I enjoy working on projects that challenge me to learn new things and grow as a developer.
 </p>
 
-<!-- About Me -->
+<!-- 
 <p align="center">
   🔭 I’m currently working on: <b>React and Full-Stack Development Projects</b><br>
   🌱 I’m currently learning: <b>Advanced React, Node.js, and MongoDB</b><br>
@@ -25,4 +25,4 @@
   📫 How to reach me: <b>Email - rownokk@example.com</b><br>
   ⚡ Fun fact: <b>I'm always eager to learn something new!</b>
 </p>
--->
+--> -->

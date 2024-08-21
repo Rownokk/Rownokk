@@ -1,7 +1,11 @@
-# Hello there! 👋 Myself - Rownok Jahan Mowmita.
-<hr>
-<img src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg"height="300">
-<hr>
+<h1 align="center">Hi👋!! I'm Rownok Jahan Mowmita</h1>
+<h3 align="center">CSE Undergraduate | Ahsanullah University of Science & Technology (AUST)</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rownokk&label=Profile%20views&color=0e75b6&style=flat" alt="rownokk" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <!--
 **Rownokk/Rownokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

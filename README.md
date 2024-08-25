@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rownok Jahan Mowmita</h1>
 <h3 align="center">CSE Undergraduate | Ahsanullah University of Science & Technology (AUST)</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rownokk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <!-- Profile Photos -->
@@ -11,7 +9,9 @@
   <img src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg" alt="Coding Illustration" width="250" height="250" style="border-radius: 50%; margin: 0 10px;">
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rownokk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <!-- 
 <p align="center">

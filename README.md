@@ -13,16 +13,6 @@
 </p>
 
 ---
-
-### 🌟 About Me
-- 👩‍💻 Passionate about Web Development, Problem Solving & Computer Networks  
-- 💡 Always learning and growing — One line of code at a time  
-- 🌱 Currently exploring **Front-End Frameworks**, **Assembly Language**, and **Networking Fundamentals**  
-- 🤍 I love helping others and sharing knowledge  
-- 🌸 Proud Muslim Girl | Dreaming Big for My Family
-
----
-
 ### 📫 Let's Connect
 <p align="center">
   <a href="mailto:mowmita878@gmail.com">
@@ -46,15 +36,8 @@
 
 ---
 
-### 💖 Quote I Live By
-> *"Work hard in silence, let your success make the noise."*
 
----
 
-### 🌈 Fun Facts
-- 🐾 I'm obsessed with clean UI & cute coding setups!
-- 💞 Dreaming of combining tech with creativity to build meaningful solutions.
-- ⚡ Fun fact: Messi is my forever inspiration! 🐐⚽
 
 ---
 

@@ -1,10 +1,4 @@
-<!--  Rownok Jahan Mowmita  -->
-
-<!-- Animated Heading -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+Rownok+Jahan+Mowmita!;CSE+Undergraduate+from+AUST+%F0%9F%93%9A;Proud+Muslim+Girl+%F0%9F%99%8F;I+love+to+code+%F0%9F%92%BB;Let’s+build+something+magical+%F0%9F%8C%9F" alt="Typing animation" />
-</p>
-
+<h1 align="center">Hi there 👋, I'm <span style="color:#ff69b4;">Rownok Jahan Mowmita</span> 🌸</h1>
 <h3 align="center">🎓 CSE Undergraduate | Ahsanullah University of Science & Technology (AUST)</h3>
 
 <p align="center">
@@ -19,48 +13,26 @@
 </p>
 
 ---
-
 ### 📫 Let's Connect
 <p align="center">
   <a href="mailto:mowmita878@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/rownokk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-8a2be2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🏆 My GitHub Achievements
+### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rownokk&theme=juicyfresh&no-frame=true&column=7&margin-w=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rownokk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rownokk&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 🔥 GitHub Streaks & Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rownokk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rownokk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-</p>
-
----
-
-### 🍩 Languages I Use Most
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rownokk&layout=donut&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rownokk/rownokk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ⭐️ **Thanks for visiting my profile!**  
-💖 Let’s build something magical and meaningful together. ✨🚀  
-_Stay confident, Baby Mowmita! The world is yours._ 🌸👑
+Let’s build something amazing together. 🚀✨

@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="display:inline-block; animation: wave 2s infinite;">👋</span> 
-  I'm <span style="color:#ff69b4;">Rownok Jahan Mowmita</span> 🌸
+  I'm <span style="color:#ff69b4;">Rownok Jahan Mowmita</span> 
 </h1>
 
 <h3 align="center">
@@ -44,24 +44,3 @@
 ⭐️ <span style="color:#ff69b4;">Thanks for visiting my profile!</span>  
 Let’s build something amazing together. 🚀✨
 
----
-
-<!-- Cute CSS animations using <style> for GitHub rendering -->
-<style>
-@keyframes wave {
-  0% { transform: rotate(0.0deg) }
-  10% { transform: rotate(14.0deg) }
-  20% { transform: rotate(-8.0deg) }
-  30% { transform: rotate(14.0deg) }
-  40% { transform: rotate(-4.0deg) }
-  50% { transform: rotate(10.0deg) }
-  60% { transform: rotate(0.0deg) }
-  100% { transform: rotate(0.0deg) }
-}
-
-@keyframes float {
-  0%   { transform: translatey(0px); }
-  50%  { transform: translatey(-10px); }
-  100% { transform: translatey(0px); }
-}
-</style>
